@@ -1,0 +1,6 @@
+{
+  "_comment": "复制此文件为 config.json 后按需修改。翻译默认走 Bing 免费通道，无需任何 Key。",
+  "ms_key": "",
+  "ms_region": "",
+  "port": 5300
+}

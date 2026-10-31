@@ -1,0 +1,27 @@
+# 依赖
+node_modules/
+vendor/
+
+# 配置文件（可能含密钥，不入库；用 config.example.json 作模板）
+config.json
+config.local.json
+*.local.json
+.env
+.env.*
+
+# 日志与临时文件
+*.log
+npm-debug.log*
+tmp/
+temp/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 构建产物
+dist/
+build/
